@@ -21,6 +21,11 @@ header {
     font-weight: 300;
 }
 
+.card1 {
+    font-size: 25px;
+    text-align: center;
+}
+
 .banner-info {
     font-size: 40px;
     font-weight: 600;
@@ -33,6 +38,15 @@ header {
 .main-title {
     font-size: 40px;
     font-weight: 700;
+}
+
+.card-title {
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.banner-icons {
+    margin-left: 27%;
 }
 
 button {
