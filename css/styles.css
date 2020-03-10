@@ -30,6 +30,10 @@ header {
  margin: auto;
 }
 
+.makaia {
+    margin-top: 25%;
+}
+
 .card1 {
     font-size: 23px;
     text-align: center;
@@ -110,6 +114,55 @@ header {
     }
 }
 
+@media (min-width:470px) {
+    body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+
+    #header {
+    
+        font-size: 25px;
+    }
+
+    .texto-banner {
+        display:inline-block;
+        margin-left: 0%;
+        margin-top: 5%; 
+    }
+    .texto-banner h3 {
+        font-size: 15px;
+    }
+    .banner-icons {
+        font-size: 15px;  
+    }
+}
+
+@media (min-width:600px) {
+    body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+
+    #header {
+    
+        font-size: 25px;
+    }
+
+    .texto-banner {
+        display:inline-block;
+        margin-left: 3%;
+        margin-top: 7%; 
+    }
+    .texto-banner h3 {
+        font-size: 20px;
+    }
+    .banner-icons {
+        font-size: 20px;  
+    }
+}
 
 
 @media (min-width:768px) {
