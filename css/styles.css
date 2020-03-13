@@ -63,7 +63,6 @@ header {
     float: right; 
     clear: right;
     margin: 10px;
-    width: 60px;
     }
 
 @media (min-width:320px) {
